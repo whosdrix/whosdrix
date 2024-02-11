@@ -1,7 +1,7 @@
 <h1 align="center">Heyyy! Im whosdrix :3</h1>
 <h3 align="center">A Czech Developer</h3>
 
-- 💬 Ask me about **NodeJs, JavaScript, Python, PHP, MySql,Postman**
+- 💬 Ask me about **NodeJs, JavaScript, Python, PHP, MySql, Postman**
 
 - 💬 You can reach me on my **Instagram** or **Discord server**
 
