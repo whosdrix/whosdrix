@@ -8,7 +8,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/whosdrix" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="ig" height="30" width="40" /></a>
-<a href="https://discord.gg/65exWz2dQ6" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="dc" height="30" width="40" /></a>
+<a href="https://discord.gg/whn" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="dc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stats:</h3>
