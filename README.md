@@ -1,63 +1,46 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <!-- Replace this src with your custom banner image (e.g. created in Figma with Poppins font) -->
+  <img src="https://raw.githubusercontent.com/whosdrix/whosdrix/header.svg" alt="Hello, I'm Drix" />
+</p>
 
-###
+<p align="center">
+  <a href="https://instagram.com/whosdrix">
+    <img src="https://img.shields.io/badge/Instagram-ff0055?logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/quRYpJtMgY">
+    <img src="https://img.shields.io/badge/Discord-ff0055?logo=discord&style=for-the-badge&color=000000&logoColor=ff0055" alt="Discord"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+  <!-- Visitor Count (dark theme) -->
+  <img src="https://profile-counter.glitch.me/whosdrix/count.svg?theme=dark&color=ff0055" alt="Visitor Count"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=whosdrix.whosdrix&left_text=Visitors"  />
-</div>
+## 👋 About Me
 
-###
+- 🔭 I’m currently exploring Java and building fun side projects.  
+- ⚡ In my free time I code random experiments and play with new tech.  
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 💻 My Tech Stack
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosdrix&layout=compact&theme=dark&bg_color=000000&title_color=ff0055&icon_color=ff0055" alt="Top Languages"/>
+</p>
+<p align="center">
+  <!-- General GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=whosdrix&show_icons=true&theme=dark&bg_color=000000&title_color=ff0055&icon_color=ff0055" alt="GitHub Stats"/>
+</p>
 
-###
+---
 
-<p align="left">I'm Drix from Czech Republic 🇨🇿<br><br>- 🔭 I’m working as Freelance Developer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I code random things ig</p>
+## 🎮 Fun Stuff
 
-###
-
-<h3 align="left">🛠 Languages & tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   Snake</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/whosdrix/whosdrix/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/whosdrix/whosdrix/output/snake.svg" alt="Snake animation" width="80%"/>
+</p>
