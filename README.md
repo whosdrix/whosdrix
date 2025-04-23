@@ -42,13 +42,3 @@
 </p>
 
 ---
-
-## 🎮 Fun Stuff
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/whosdrix/whosdrix/output/snake.svg"
-    alt="Snake animation"
-    width="80%"
-  />
-</p>
