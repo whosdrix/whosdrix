@@ -1,42 +1,9 @@
 <!-- Centered text header -->
 <h1 align="center">HI! I’m Drix.</h1>
-<div align="center">
-  <a
-    href="https://github.com/whosdrix"
-    style="margin:0 4px; text-decoration:none;"
-  >
-    <img
-      src="https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055"
-      alt="GitHub"
-    />
-  </a>
-  <a
-    href="https://instagram.com/whosdrix"
-    style="margin:0 4px; text-decoration:none;"
-  >
-    <img
-      src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055"
-      alt="Instagram"
-    />
-  </a>
-  <a
-    href="https://discord.gg/quRYpJtMgY"
-    style="margin:0 4px; text-decoration:none;"
-  >
-    <img
-      src="https://img.shields.io/static/v1?label=&message=Discord&logo=discord&style=for-the-badge&color=000000&logoColor=ff0055"
-      alt="Discord"
-    />
-  </a>
-</div>
 
-<p align="center">
-  <!-- Modern visitor counter -->
-  <img
-    src="https://komarev.com/ghpvc/?username=whosdrix&label=Profile+Views&color=ff0055&style=flat-square&background=000000"
-    alt="Profile views"
-  />
-</p>
+  [![](https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055)](https://github.com/whosdrix)
+  [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055)](https://instagram.com/whosdrix)
+  [![](https://img.shields.io/static/v1?label=&message=Discord&logo=discord&style=for-the-badge&color=000000&logoColor=ff0055)](https://discord.gg/quRYpJtMgY)
 
 ---
 
