@@ -1,9 +1,14 @@
 <!-- Centered text header -->
 <h1 align="center">HI! I’m Drix.</h1>
 
-  [![](https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055)](https://github.com/whosdrix)
-  [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055)](https://instagram.com/whosdrix)
-  [![](https://img.shields.io/static/v1?label=&message=Discord&logo=discord&style=for-the-badge&color=000000&logoColor=ff0055)](https://discord.gg/quRYpJtMgY)
+<!-- Centered social badges -->
+<div align="center">
+
+[![](https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055)](https://github.com/whosdrix)  
+[![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055)](https://instagram.com/whosdrix)  
+[![](https://img.shields.io/static/v1?label=&message=Discord&logo=discord&style=for-the-badge&color=000000&logoColor=ff0055)](https://discord.gg/quRYpJtMgY)
+
+</div>
 
 ---
 
