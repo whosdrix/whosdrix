@@ -1,40 +1,40 @@
-<div align="center">
-  <!-- Centered typing header -->
+<p align="center">
+  <!-- Centered typing header with fixed width -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=36&pause=1500&width=600&height=100&lines=Hello,+I'm+Drix;Building+Random+Tools+for+Fun;Java+%7C+JavaScript+%7C+Python&color=ff0055&background=00000000"
     alt="Typing SVG"
+    width="600"
   />
-</div>
+</p>
 
-<div align="center">
-  <!-- Socials -->
-  <a href="https://github.com/whosdrix">
+<p align="center">
+  <!-- Icon-only social badges -->
+  <a href="https://github.com/whosdrix" style="margin:0 4px;">
     <img
-      src="https://img.shields.io/badge/GitHub-ff0055?style=flat-square&logo=github&logoColor=white&backgroundColor=000000"
+      src="https://img.shields.io/badge/-?style=flat-square&logo=github&logoColor=white&color=000000"
       alt="GitHub"
     />
   </a>
-  <a href="https://instagram.com/whosdrix">
+  <a href="https://instagram.com/whosdrix" style="margin:0 4px;">
     <img
-      src="https://img.shields.io/badge/Instagram-ff0055?style=flat-square&logo=instagram&logoColor=white&backgroundColor=000000"
+      src="https://img.shields.io/badge/-?style=flat-square&logo=instagram&logoColor=white&color=000000"
       alt="Instagram"
     />
   </a>
-  <a href="https://discord.gg/quRYpJtMgY">
+  <a href="https://discord.gg/quRYpJtMgY" style="margin:0 4px;">
     <img
-      src="https://img.shields.io/badge/Discord-ff0055?style=flat-square&logo=discord&logoColor=white&backgroundColor=000000"
+      src="https://img.shields.io/badge/-?style=flat-square&logo=discord&logoColor=white&color=000000"
       alt="Discord"
     />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <!-- Modern visitor count -->
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=whosdrix&label=Profile+Views&color=ff0055&style=flat-square&background=000000"
     alt="Profile views"
   />
-</div>
+</p>
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
   <!-- Row 1: Languages -->
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=007396" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -56,34 +56,32 @@
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-</div>
-
-<div align="center">
-  <!-- Row 2: Frameworks & Libraries -->
+</p>
+<p align="center">
+  <!-- Row 2: Frameworks & Build -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/ESLint-000000?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-000000?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />
-</div>
-
-<div align="center">
-  <!-- Row 3: Tools & Services -->
+</p>
+<p align="center">
+  <!-- Row 3: Databases & Tools -->
   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</div>
+</p>
 
 ---
 
 ## 🎮 Fun Stuff
 
-<div align="center">
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/whosdrix/whosdrix/output/snake.svg"
     alt="Snake animation"
     width="80%"
   />
-</div>
+</p>
