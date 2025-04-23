@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/whosdrix/whosdrix/header.svg"
+    src="https://raw.githubusercontent.com/whosdrix/header.svg"
     alt="HI! I'm Drix."
     width="600"
   />
