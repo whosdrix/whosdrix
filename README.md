@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- Custom SVG header: commit header.svg at repo root -->
   <img
     src="https://raw.githubusercontent.com/whosdrix/whosdrix/header.svg"
     alt="HI! I'm Drix."
@@ -8,29 +7,20 @@
 </p>
 
 <p align="center">
-  <!-- Social badges with only logoColor accent, no underline -->
-  <a
-    href="https://github.com/whosdrix"
-    style="margin:0 4px; text-decoration:none;"
-  >
+  <!-- Social badges: black card + white text + #ff0055 icon -->
+  <a href="https://github.com/whosdrix" style="margin:0 4px; text-decoration:none;">
     <img
       src="https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055"
       alt="GitHub"
     />
   </a>
-  <a
-    href="https://instagram.com/whosdrix"
-    style="margin:0 4px; text-decoration:none;"
-  >
+  <a href="https://instagram.com/whosdrix" style="margin:0 4px; text-decoration:none;">
     <img
       src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055"
       alt="Instagram"
     />
   </a>
-  <a
-    href="https://discord.gg/quRYpJtMgY"
-    style="margin:0 4px; text-decoration:none;"
-  >
+  <a href="https://discord.gg/quRYpJtMgY" style="margin:0 4px; text-decoration:none;">
     <img
       src="https://img.shields.io/static/v1?label=&message=Discord&logo=discord&style=for-the-badge&color=000000&logoColor=ff0055"
       alt="Discord"
