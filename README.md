@@ -2,13 +2,14 @@
 <h1 align="center">HI! I’m Drix.</h1>
 
 <p align="center">
-  <!-- Markdown-style image-links: no underline -->
+  <!-- Social badges: markdown image-links, no underline -->
   [![](https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055)](https://github.com/whosdrix)
   [![](https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&style=for-the-badge&color=000000&logoColor=ff0055)](https://instagram.com/whosdrix)
   [![](https://img.shields.io/static/v1?label=&message=Discord&logo=discord&style=for-the-badge&color=000000&logoColor=ff0055)](https://discord.gg/quRYpJtMgY)
 </p>
 
 <p align="center">
+  <!-- Modern visitor counter -->
   <img
     src="https://komarev.com/ghpvc/?username=whosdrix&label=Profile+Views&color=ff0055&style=flat-square&background=000000"
     alt="Profile views"
