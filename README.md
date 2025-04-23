@@ -1,13 +1,8 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/whosdrix/header.svg"
-    alt="HI! I'm Drix."
-    width="600"
-  />
-</p>
+<!-- Centered text header -->
+<h1 align="center">HI! I’m Drix.</h1>
 
 <p align="center">
-  <!-- Social badges: black card + white text + #ff0055 icon -->
+  <!-- Social badges: black card + white text + #ff0055 logo, no underline -->
   <a href="https://github.com/whosdrix" style="margin:0 4px; text-decoration:none;">
     <img
       src="https://img.shields.io/static/v1?label=&message=GitHub&logo=github&style=for-the-badge&color=000000&logoColor=ff0055"
@@ -29,7 +24,6 @@
 </p>
 
 <p align="center">
-  <!-- Modern visitor counter -->
   <img
     src="https://komarev.com/ghpvc/?username=whosdrix&label=Profile+Views&color=ff0055&style=flat-square&background=000000"
     alt="Profile views"
@@ -56,7 +50,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ff0055" alt="Python" />
 </p>
 <p align="center">
-  <!-- Row 2: Front-End & Back-End -->
+  <!-- Row 2: Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ff0055" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ff0055" alt="CSS3" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ff0055" alt="Next.js" />
