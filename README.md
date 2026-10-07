@@ -31,7 +31,7 @@
 
 <img src="./assets/title-lately.svg" width="100%" alt="03 lately" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whosdrix&bg_color=09090b&color=8b8b95&line=ff0055&point=f4f4f5&area=true&area_color=ff0055&hide_border=true&radius=12&custom_title=commits%2C%20last%2030%20days" width="100%" alt="contribution activity" />
+<img src="./assets/activity.svg" width="100%" alt="contribution activity, last 30 days" />
 
 <br/>
 
