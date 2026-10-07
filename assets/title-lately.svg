@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 54" width="830" height="54">
+  <style>
+    text { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace; }
+    .n { fill: #ff0055; font-size: 13px; font-weight: 700; letter-spacing: 1px; }
+    .t { fill: #8b8b95; font-size: 22px; font-weight: 700; }
+    .u { animation: grow 1.4s cubic-bezier(.2,.8,.2,1) both, shimmer 5s ease-in-out 1.4s infinite; transform-origin: 0 0; }
+    .s { animation: slide 3.5s cubic-bezier(.6,0,.4,1) 1.4s infinite; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes shimmer { 0%,100% { opacity: 1; } 50% { opacity: .55; } }
+    @keyframes slide { from { transform: translateX(-80px); } to { transform: translateX(830px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <text x="0" y="30" class="n">03</text>
+  <text x="38" y="31" class="t">lately</text>
+  <rect class="u" x="38" y="42" width="79" height="3" rx="1.5" fill="#ff0055"/>
+  <line x1="131" y1="43.5" x2="830" y2="43.5" stroke="#8b8b95" stroke-opacity=".3"/>
+  <rect class="s" x="0" y="42.5" width="80" height="2" fill="#ff0055" opacity=".7"/>
+</svg>

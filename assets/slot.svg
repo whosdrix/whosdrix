@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 120" width="830" height="120">
+  <style>
+    text { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace; }
+    .b { fill: none; stroke: #8b8b95; stroke-opacity: .5; stroke-dasharray: 6 6; animation: march 1.2s linear infinite; }
+    .k { fill: #ff0055; font-size: 12px; letter-spacing: 1.5px; font-weight: 700; }
+    .h { fill: #8b8b95; font-size: 18px; font-weight: 700; }
+    .s { fill: #8b8b95; font-size: 13px; opacity: .8; }
+    .bar { fill: #ff0055; animation: load 3.2s cubic-bezier(.6,0,.4,1) infinite; transform-origin: 28px 0; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes march { to { stroke-dashoffset: -24; } }
+    @keyframes load { 0% { transform: scaleX(0); } 70% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect class="b" x="1" y="1" width="828" height="118" rx="12"/>
+  <text x="28" y="36" class="k">SLOT 01 · RESERVED</text>
+  <text x="28" y="64" class="h">something's compiling<tspan class="cur" fill="#ff0055">_</tspan></text>
+  <text x="28" y="88" class="s">public projects land here as they ship. most of my stuff is private, the good bits won't be.</text>
+  <rect x="28" y="100" width="774" height="3" rx="1.5" fill="#8b8b95" fill-opacity=".2"/>
+  <rect class="bar" x="28" y="100" width="774" height="3" rx="1.5"/>
+</svg>
