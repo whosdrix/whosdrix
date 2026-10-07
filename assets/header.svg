@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260">
+  <defs>
+    <linearGradient id="sweep" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ff0055" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ff0055" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#ff0055" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ff0055" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#ff0055" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
+    <clipPath id="frame"><rect width="900" height="260" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace; }
+    .name { font-size: 96px; font-weight: 800; letter-spacing: -2px; fill: #fff; }
+    .tag  { font-size: 15px; fill: #8b8b95; letter-spacing: 1px; }
+    .pink { fill: #ff0055; }
+
+    .orb   { animation: drift 9s ease-in-out infinite alternate; transform-origin: 700px 130px; }
+    .orb2  { animation: drift2 12s ease-in-out infinite alternate; }
+    .scan  { animation: scan 4.5s cubic-bezier(.6,0,.4,1) infinite; }
+    .cursor{ animation: blink 1s steps(1) infinite; }
+    .glitch{ animation: glitch 6s steps(1) infinite; }
+    .rise  { animation: rise 1.2s cubic-bezier(.2,.8,.2,1) both; }
+    .rise2 { animation: rise 1.2s .25s cubic-bezier(.2,.8,.2,1) both; }
+    .dot   { animation: twinkle 3s ease-in-out infinite; }
+    .dot:nth-of-type(2n) { animation-delay: .7s; }
+    .dot:nth-of-type(3n) { animation-delay: 1.6s; animation-duration: 4s; }
+    .dot:nth-of-type(5n) { animation-delay: 2.3s; animation-duration: 2.4s; }
+    .ring  { animation: spin 24s linear infinite; transform-origin: 760px 130px; }
+
+    @keyframes drift  { from { transform: translate(0,0) scale(1); } to { transform: translate(-60px,18px) scale(1.15); } }
+    @keyframes drift2 { from { transform: translate(0,0); } to { transform: translate(80px,-20px); } }
+    @keyframes scan   { 0% { transform: translateX(-420px); } 100% { transform: translateX(1320px); } }
+    @keyframes blink  { 50% { opacity: 0; } }
+    @keyframes rise   { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes twinkle{ 0%,100% { opacity: .15; } 50% { opacity: .9; } }
+    @keyframes spin   { to { transform: rotate(360deg); } }
+    @keyframes glitch {
+      0%, 91%, 100% { transform: none; opacity: 0; }
+      92% { transform: translate(-4px, 0); opacity: .8; }
+      94% { transform: translate(5px, -1px); opacity: .6; }
+      96% { transform: translate(-2px, 1px); opacity: .7; }
+    }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="260" fill="#09090b"/>
+    <rect width="900" height="260" fill="url(#grid)"/>
+
+    <!-- soft moving light -->
+    <circle class="orb"  cx="720" cy="130" r="190" fill="url(#glow)"/>
+    <circle class="orb2" cx="120" cy="250" r="140" fill="url(#glow)" opacity=".5"/>
+
+    <!-- slow orbit, right side -->
+    <g class="ring" fill="none" stroke="#ff0055">
+      <circle cx="760" cy="130" r="74" stroke-opacity=".5" stroke-dasharray="2 9"/>
+      <circle cx="760" cy="130" r="104" stroke-opacity=".18"/>
+      <circle cx="834" cy="130" r="4" fill="#ff0055" stroke="none"/>
+    </g>
+
+    <!-- stars -->
+    <g fill="#fff">
+      <circle class="dot" cx="610" cy="42"  r="1.4"/>
+      <circle class="dot" cx="842" cy="58"  r="1.1"/>
+      <circle class="dot" cx="668" cy="214" r="1.3"/>
+      <circle class="dot" cx="880" cy="200" r="1"/>
+      <circle class="dot" cx="560" cy="160" r="1"/>
+      <circle class="dot" cx="720" cy="28"  r="1.2"/>
+      <circle class="dot" cx="812" cy="236" r="1.4"/>
+      <circle class="dot" cx="520" cy="70"  r="1"/>
+      <circle class="dot" cx="640" cy="118" r="0.9"/>
+      <circle class="dot" cx="866" cy="120" r="1.1"/>
+    </g>
+
+    <!-- name, with a glitch echo that fires every few seconds -->
+    <g class="mono">
+      <text class="name pink glitch" x="56" y="150" opacity="0">drix</text>
+      <text class="name rise" x="56" y="150">drix<tspan class="pink">.</tspan></text>
+      <text class="tag rise2" x="60" y="190">MARTIN · CZECH REPUBLIC · BUILDS THINGS FOR THE WEB<tspan class="pink cursor"> _</tspan></text>
+    </g>
+
+    <!-- light sweep along the bottom edge -->
+    <rect class="scan" x="0" y="256" width="420" height="4" fill="url(#sweep)"/>
+    <rect class="scan" x="0" y="250" width="420" height="16" fill="url(#sweep)" opacity=".35" filter="url(#blur)"/>
+  </g>
+  <rect width="899" height="259" x=".5" y=".5" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>
